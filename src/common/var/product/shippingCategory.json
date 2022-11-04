@@ -1,0 +1,19 @@
+{
+  "shippingCategory.shipType": [
+    {
+      "label": "ShipStation",
+      "value": 1,
+      "key": "shipstation"
+    },
+    {
+      "label": "Shopify",
+      "value": 2,
+      "key": "shopify"
+    },
+    {
+      "label": "Telispire",
+      "value": 3,
+      "key": "telispire"
+    }
+  ]
+}

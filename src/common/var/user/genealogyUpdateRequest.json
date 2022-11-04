@@ -1,0 +1,43 @@
+{
+  "genealogyUpdateRequest.status": [
+    {
+      "value": 1,
+      "key": "pending",
+      "label": "Pending"
+    },
+    {
+      "value": 2,
+      "key": "done",
+      "label": "Success"
+    },
+    {
+      "value": 3,
+      "key": "failed",
+      "label": "Failed"
+    }
+  ],
+  "genealogyUpdateRequest.legPosition": [
+    {
+      "value": 1,
+      "key": "left",
+      "label": "Left"
+    },
+    {
+      "value": 2,
+      "key": "right",
+      "label": "Right"
+    }
+  ],
+  "genealogyUpdateRequest.powerLeg": [
+    {
+      "value": 1,
+      "key": "left",
+      "label": "Left"
+    },
+    {
+      "value": 2,
+      "key": "right",
+      "label": "Right"
+    }
+  ]
+}

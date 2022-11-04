@@ -1,0 +1,29 @@
+{
+	"shareCartDetail.payCycle": [
+		{
+			"value": 0,
+			"key": "none",
+			"label": "None"
+		},
+		{
+			"value": 30,
+			"key": "30days",
+			"label": "Every 30days"
+		},
+		{
+			"value": 60,
+			"key": "60days",
+			"label": "Every 60days"
+		},
+		{
+			"value": 90,
+			"key": "90days",
+			"label": "Every 90days"
+		},
+		{
+			"value": 1,
+			"key": "annual",
+			"label": "Annual"
+		}
+	]
+}

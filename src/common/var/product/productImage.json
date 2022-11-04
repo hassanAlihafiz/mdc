@@ -1,0 +1,14 @@
+{
+	"productImage.type": [
+		{
+			"value": 1,
+			"key": "main",
+			"label": "Main Image"
+		},
+		{
+			"value": 2,
+			"key": "extra",
+			"label": "Thumbnail Image"
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"orderPaymentTransaction.type": [
+		{
+			"value": 1,
+			"key": "payment",
+			"label": "Payment"
+		},
+		{
+			"value": 2,
+			"key": "refund",
+			"label": "Refund"
+		}
+	],
+	"orderPaymentTransaction.payType": [
+		{
+		  "value": 1,
+		  "key": "cc",
+		  "label": "Credit Card"
+		},
+		{
+		  "value": 2,
+		  "key": "wallet",
+		  "label": "Credit Wallet"
+		},
+		{
+		  "value": 3,
+		  "key": "bank",
+		  "label": "Bank ACH"
+		},
+		{
+		  "value": 4,
+		  "key": "manual",
+		  "label": "Manual"
+		},
+		{
+		  "value": 5,
+		  "key": "coin",
+		  "label": "Coin"
+		},
+		{
+		  "value": 6,
+		  "key": "free",
+		  "label": "Free"
+		},
+		{
+			"value": 7,
+			"key": "gift_wallet",
+			"label": "Gift Wallet"
+		},
+		{
+			"value": 8,
+			"key": "cc+wallet",
+			"label": "CC + Wallet"
+		},
+		{
+			"value": 9,
+			"key": "cc+gift_wallet",
+			"label": "CC + Gift Wallet"
+		}
+	],	
+	"orderPaymentTransaction.merchantResponse": [
+		{
+			"value": 1,
+			"key": "success",
+			"label": "Success"
+		},
+		{
+			"value": 2,
+			"key": "failed",
+			"label": "Failed"
+		}
+	]	
+}

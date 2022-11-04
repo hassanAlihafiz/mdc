@@ -1,0 +1,20 @@
+{
+  "productAvailability.kind": [
+    {
+      "value": 1,
+      "key": "corp"
+    },
+    {
+      "value": 2,
+      "key": "shop"
+    },
+    {
+      "value": 3,
+      "key": "autoship"
+    },
+    {
+      "value": 4,
+      "key": "all"
+    }
+  ]
+}

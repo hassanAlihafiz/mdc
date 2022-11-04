@@ -1,0 +1,19 @@
+{
+  "creditWithdrawSetting.type": [
+    {
+      "value": 1,
+      "key": "credit_wallet",
+      "label": "Not All"
+    },
+    {
+      "value": 2,
+      "key": "payout",
+      "label": "All"
+    },
+    {
+      "value": 3,
+      "key": "partial_payout",
+      "label": "Next"
+    }
+  ]
+}

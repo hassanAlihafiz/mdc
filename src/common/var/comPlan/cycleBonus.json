@@ -1,0 +1,24 @@
+{
+	"cycleBonus.status": [
+		{
+			"value": 1,
+			"key": "pending",
+			"label": "Pending"
+		},
+		{
+			"value": 2,
+			"key": "paying",
+			"label": "Paying"
+		},
+		{
+			"value": 3,
+			"key": "paid",
+			"label": "Paid"
+		},
+		{
+			"value": 4,
+			"key": "rejected",
+			"label": "Rejected"
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+  "distCenter.isDigital": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "distCenter.status": [
+    {
+      "value": 1,
+      "key": "active",
+      "label": "Active"
+    },
+    {
+      "value": 2,
+      "key": "inactive",
+      "label": "Inactive"
+    }
+  ],
+  "distCenter.shouldShowPhone": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "distCenter.shouldShowEmail": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "distCenter.isThirdParty": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "distCenter.thirdPartyShipper": [
+    {
+      "value": 1,
+      "key": "Shipstation",
+      "label": "Shipstation"
+    },
+    {
+      "value": 2,
+      "key": "EuGlobe",
+      "label": "EuGlobe"
+    },
+    {
+      "value": 3,
+      "key": "Huboo",
+      "label": "Huboo"
+    },
+    {
+      "value": 4,
+      "key": "BlackCat",
+      "label": "BlackCat"
+    }
+  ]
+}

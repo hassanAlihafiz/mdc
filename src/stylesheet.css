@@ -1,0 +1,26 @@
+*,
+ul {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+img {
+  max-width: 100%;
+}
+#myapp {
+  overflow-x: hidden !important;
+}
+a:focus,
+a:hover,
+a:active,
+a:visited,
+button:focus,
+button:hover,
+button:active,
+button:visited {
+  outline: none;
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}

@@ -1,0 +1,15 @@
+{
+	"giftConsumeHistory.type": [
+		{
+			"value": 1,
+			"key": "payment",
+			"label": "Payment"
+		},
+		{
+			"value": 2,
+			"key": "refund",
+			"label": "Refund"
+		}
+	]
+}
+  

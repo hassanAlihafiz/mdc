@@ -1,0 +1,166 @@
+{
+	"resource.fileType": [
+		{
+			"value": 1,
+			"key": "pdf",
+			"label": "PDF"
+		},
+		{
+			"value": 2,
+			"key": "ppt",
+			"label": "PPT"
+		},
+		{
+			"value": 3,
+			"key": "img",
+			"label": "Image"
+		},
+		{
+			"value": 4,
+			"key": "video",
+			"label": "Video"
+		}
+	],
+	"resource.status": [
+		{
+			"value": 1,
+			"key": "active",
+			"label": "Active"
+		},
+		{
+			"value": 2,
+			"key": "inactive",
+			"label": "Inactive"
+		}
+	],
+	"resource.forAffiliate": [
+		{
+			"value": 1,
+			"key": "yes",
+			"label": "Yes"
+		},
+		{
+			"value": 2,
+			"key": "no",
+			"label": "No"
+		}
+	],
+	"resource.forPreferred": [
+		{
+			"value": 1,
+			"key": "yes",
+			"label": "Yes"
+		},
+		{
+			"value": 2,
+			"key": "no",
+			"label": "No"
+		}
+	],
+	"resource.type": [
+		{
+			"value": 1,
+			"key": "marketing",
+			"label": "Marketing"
+		},
+		{
+			"value": 2,
+			"key": "training",
+			"label": "Training"
+		}
+	],
+	"resource.lang": [
+		{
+			"value": 1,
+			"key": "en-us",
+			"label": "USA - English"
+		},
+		{
+			"value": 2,
+			"key": "en-af",
+			"label": "Africa - English"
+		},
+		{
+			"value": 3,
+			"key": "en-eu",
+			"label": "Europe - English"
+		},
+		{
+			"value": 4,
+			"key": "fr",
+			"label": "France - French"
+		},
+		{
+			"value": 5,
+			"key": "de",
+			"label": "Germany - German"
+		},
+		{
+			"value": 6,
+			"key": "hu",
+			"label": "Hungary - Hungarian"
+		},
+		{
+			"value": 7,
+			"key": "it",
+			"label": "Italy - Italian"
+		},
+		{
+			"value": 8,
+			"key": "es-mx",
+			"label": "Mexico - Spanish"
+		},
+		{
+			"value": 9,
+			"key": "ro",
+			"label": "Romania - Romanian"
+		},		
+		{
+			"value": 10,
+			"key": "ru",
+			"label": "Russia - Russian"
+		},
+		{
+			"value": 11,
+			"key": "zh-tw",
+			"label": "Taiwan - Traditional Chinese"
+		},
+		{
+			"value": 12,
+			"key": "ua",
+			"label": "Ukraine - Ukrainian"
+		},		
+		{
+			"value": 13,
+			"key": "jp",
+			"label": "Japan - Japanese"
+		}
+	],
+	"resource.assetType": [
+		{
+			"value": 1,
+			"key": "business_tool",
+			"label": "Business Tool"
+		},
+		{
+			"value": 2,
+			"key": "logo",
+			"label": "Logo"
+		},
+		{
+			"value": 3,
+			"key": "presentation",
+			"label": "Presentation"
+		},
+		{
+			"value": 4,
+			"key": "product_sheet",
+			"label": "Product Sheet"
+		},
+		{
+			"value": 5,
+			"key": "video",
+			"label": "Video"
+		}
+	]
+}

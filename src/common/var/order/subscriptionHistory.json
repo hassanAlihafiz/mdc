@@ -1,0 +1,39 @@
+{
+  "subscriptionHistory.status": [
+    {
+      "value": 1,
+      "key": "created",
+      "label": "Created"
+    },
+    {
+      "value": 2,
+      "key": "updated",
+      "label": "Updated"
+    },
+    {
+      "value": 3,
+      "key": "paid",
+      "label": "Auto Paid"
+    },
+    {
+      "value": 4,
+      "key": "failed",
+      "label": "Autopay Failed"
+    },
+    {
+      "value": 5,
+      "key": "inactive",
+      "label": "Inactive"
+    },
+    {
+      "value": 6,
+      "key": "cancelled",
+      "label": "Cancelled"
+    },
+    {
+      "value": 7,
+      "key": "resumed",
+      "label": "Resumed"
+    }
+  ]
+}

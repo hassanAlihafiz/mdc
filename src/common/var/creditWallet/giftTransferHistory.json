@@ -1,0 +1,32 @@
+{
+	"giftTransferHistory.receiverType": [
+		{
+			"value": 1,
+			"key": "new",
+			"label": "New"
+		},
+		{
+			"value": 2,
+			"key": "existing",
+			"label": "Existing"
+		}
+	],
+	"giftTransferHistory.status": [
+		{
+			"value": 1,
+			"key": "pending",
+			"label": "Pending"
+		},
+		{
+			"value": 2,
+			"key": "accepted",
+			"label": "Accepted"
+		},
+		{
+			"value": 3,
+			"key": "cancelled",
+			"label": "Cancelled"
+		}
+	]
+}
+  

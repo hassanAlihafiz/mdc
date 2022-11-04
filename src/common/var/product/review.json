@@ -1,0 +1,14 @@
+{
+  "product.reviewStatus": [
+    {
+      "value": 1,
+      "key": "activated",
+      "label": "Activated"
+    },
+    {
+      "value": 2,
+      "key": "inactivated",
+      "label": "Inactivated"
+    }
+  ]
+}

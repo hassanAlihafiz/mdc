@@ -1,0 +1,366 @@
+{
+  "product.status": [
+    {
+      "value": 1,
+      "key": "active",
+      "label": "Active"
+    },
+    {
+      "value": 2,
+      "key": "inactive",
+      "label": "Inactive"
+    }
+  ],
+  "product.type": [
+    {
+      "value": 1,
+      "key": "physical",
+      "label": "Physical"
+    },
+    {
+      "value": 2,
+      "key": "digital",
+      "label": "Digital Subscription"
+    },
+    {
+      "value": 3,
+      "key": "ticket",
+      "label": "Ticket"
+    },
+    {
+      "value": 4,
+      "key": "prepaid_code",
+      "label": "Prepaid Code"
+    }
+  ],
+  "product.purchaseType": [
+    {
+      "value": 1,
+      "key": "only-one-time",
+      "label": "Only One Time"
+    },
+    {
+      "value": 2,
+      "key": "only-subscription",
+      "label": "Only Subscription"
+    },
+    {
+      "value": 3,
+      "key": "one-time-and-subscription",
+      "label": "One Time & Subscription"
+    }
+  ],
+  "product.forAffiliate": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.forPreferred": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasSpecShippingPrice": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isTaxable": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasSpecTax": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasVariant": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasFaq": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasTest": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isPromotion": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.promotionType": [
+    {
+      "value": 1,
+      "key": "extra-saving",
+      "label": "Extra Saving"
+    },
+    {
+      "value": 2,
+      "key": "promotional-offer",
+      "label": "Promotional Offer"
+    }
+  ],
+  "product.hasBulletDetail": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasDescription": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasIncredient": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasProductSheet": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isFeatured": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isBestSeller": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isNew": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isTrending": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.showReview": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isPack": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.isSpack": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasAdditionalImages": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasAdditionalVideos": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasTab": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "product.hasRecommendProduct": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+
+  "product.tabType": [
+    {
+      "value": 1,
+      "key": "normal",
+      "label": "Normal"
+    },
+    {
+      "value": 2,
+      "key": "just-image",
+      "label": "Just Image"
+    }
+  ]
+}

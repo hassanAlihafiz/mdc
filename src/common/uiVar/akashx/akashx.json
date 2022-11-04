@@ -1,0 +1,104 @@
+{
+  "akashx.languages": [
+    {
+      "value": "ar",
+      "key": "ar",
+      "label": "Arabic"
+    },
+    {
+      "value": "zh-CN",
+      "key": "zh-CN",
+      "label": "Chinese (Simplified)"
+    },
+    {
+      "value": "zh-TW",
+      "key": "zh-TW",
+      "label": "Chinese (Traditional)"
+    },
+    {
+      "value": "en",
+      "key": "en",
+      "label": "English"
+    },
+    {
+      "value": "fr",
+      "key": "fr",
+      "label": "French"
+    },
+    {
+      "value": "de",
+      "key": "de",
+      "label": "German"
+    },
+    {
+      "value": "el",
+      "key": "el",
+      "label": "Greek"
+    },
+    {
+      "value": "hu",
+      "key": "hu",
+      "label": "Hungarian"
+    },
+    {
+      "value": "id",
+      "key": "id",
+      "label": "Indonesian"
+    },
+    {
+      "value": "it",
+      "key": "it",
+      "label": "Italian"
+    },
+    {
+      "value": "ja",
+      "key": "ja",
+      "label": "Japanese"
+    },
+    {
+      "value": "ko",
+      "key": "ko",
+      "label": "Korean"
+    },
+    {
+      "value": "pl",
+      "key": "pl",
+      "label": "Polish"
+    },
+    {
+      "value": "pt-BR",
+      "key": "pt-BR",
+      "label": "Portuguese (Brazilian)"
+    },
+    {
+      "value": "ro",
+      "key": "ro",
+      "label": "Romanian"
+    },
+    {
+      "value": "ru",
+      "key": "ru",
+      "label": "Russian"
+    },
+    {
+      "value": "es",
+      "key": "es",
+      "label": "Spanish"
+    },
+    {
+      "value": "th",
+      "key": "th",
+      "label": "Thai"
+    },
+    {
+      "value": "tr",
+      "key": "tr",
+      "label": "Turkish"
+    },
+    {
+      "value": "vi",
+      "key": "vi",
+      "label": "Vietnamese"
+    }
+  ]
+}

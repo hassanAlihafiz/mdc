@@ -1,0 +1,24 @@
+{
+  "conversionTrack.leg": [
+    {
+      "label": "Left",
+      "value": 1,
+      "key": "left"
+    },
+    {
+      "label": "Right",
+      "value": 2,
+      "key": "right"
+    },
+    {
+      "label": "Lesser",
+      "value": 3,
+      "key": "lesser"
+    },
+    {
+      "label": "None",
+      "value": 10,
+      "key": "none"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "order.status": [
+    {
+      "value": 1,
+      "key": "paid",
+      "label": "Paid"
+    },
+    {
+      "value": 2,
+      "key": "pending",
+      "label": "Pending"
+    },
+    {
+      "value": 3,
+      "key": "refunded",
+      "label": "Refunded"
+    },
+    {
+      "value": 4,
+      "key": "partial_refunded",
+      "label": "Partial Refunded"
+    },
+    {
+      "value": 5,
+      "key": "chargebacked",
+      "label": "Chargebacked"
+    }
+  ],
+  "order.shipStatus": [
+    {
+      "value": 1,
+      "key": "none",
+      "label": "None"
+    },
+    {
+      "value": 2,
+      "key": "pending",
+      "label": "Pending"
+    },
+    {
+      "value": 3,
+      "key": "shipped",
+      "label": "Shipped"
+    },
+    {
+      "value": 4,
+      "key": "failed",
+      "label": "Failed"
+    },
+    {
+      "value": 5,
+      "key": "cancelled",
+      "label": "Cancelled"
+    }
+  ],
+  "order.orderFrom": [
+    {
+      "value": 1,
+      "key": "corp",
+      "label": "Corp"
+    },
+    {
+      "value": 2,
+      "key": "shop",
+      "label": "Shop"
+    },
+    {
+      "value": 3,
+      "key": "subscription",
+      "label": "Subscription"
+    }
+  ],
+  "order.payType": [
+    {
+      "value": 1,
+      "key": "cc",
+      "label": "Credit Card"
+    },
+    {
+      "value": 2,
+      "key": "wallet",
+      "label": "Credit Wallet"
+    },
+    {
+      "value": 3,
+      "key": "bank",
+      "label": "Bank ACH"
+    },
+    {
+      "value": 4,
+      "key": "manual",
+      "label": "Manual"
+    },
+    {
+      "value": 5,
+      "key": "coin",
+      "label": "Coin"
+    },
+    {
+      "value": 6,
+      "key": "free",
+      "label": "Free"
+    },
+    {
+      "value": 7,
+      "key": "gift_wallet",
+      "label": "Gift Wallet"
+    },
+    {
+			"value": 8,
+			"key": "cc+wallet",
+			"label": "CC + Wallet"
+		},
+		{
+			"value": 9,
+			"key": "cc+gift_wallet",
+			"label": "CC + Gift Wallet"
+		}
+  ],
+  "order.merchantResponse": [
+    {
+      "value": 1,
+      "key": "success",
+      "label": "Success"
+    },
+    {
+      "value": 2,
+      "key": "failed",
+      "label": "Failed"
+    }
+  ],
+  "order.taxResponse": [
+    {
+      "value": 1,
+      "key": "success",
+      "label": "Success"
+    },
+    {
+      "value": 2,
+      "key": "failed",
+      "label": "Failed"
+    }
+  ],
+  "order.isFlagged": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "order.payCycle": [
+    {
+      "value": 1,
+      "key": "30days",
+      "label": "30days"
+    },
+    {
+      "value": 2,
+      "key": "60days",
+      "label": "60days"
+    },
+    {
+      "value": 3,
+      "key": "annual",
+      "label": "Annual"
+    }
+  ],
+  "order.isOld": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ]
+}

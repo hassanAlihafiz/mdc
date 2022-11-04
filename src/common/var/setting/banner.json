@@ -1,0 +1,29 @@
+{
+  "banner.type": [
+    {
+      "value": 1,
+      "key": "corp_home",
+      "label": "Corp Home"
+    },
+    {
+      "value": 2,
+      "key": "corp_shop",
+      "label": "Corp Shop"
+    },
+    {
+      "value": 3,
+      "key": "ubo_home",
+      "label": "UBO Home"
+    },
+    {
+      "value": 4,
+      "key": "ubo_shop",
+      "label": "UBO Shop"
+    },
+    {
+      "value": 5,
+      "key": "mobile_banner",
+      "label": "Mobile Banner"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+  color: #354052;
+}
+
+#root,
+.ant-layout {
+  height: 100%;
+}
+.ant-layout {
+  background: #eff3f6;
+}
+.ant-drawer-body {
+  padding: 0px;
+}
+.ant-drawer-close {
+  display: none;
+}
+
+.ant-drawer-header {
+  display: none !important;
+}
+.ant-drawer-content-wrapper {
+  width: 256px !important;
+}
+.live-chat-drawer .ant-drawer-content-wrapper {
+  width: 310px !important;
+}
+
+.contant-manager-drawer .ant-drawer-content-wrapper {
+  width: 600px !important;
+}
+
+@media (max-width: 800px) {
+  .contant-manager-drawer .ant-drawer-content-wrapper {
+    width: 375px !important;
+  }
+}
+
+.notification-menus {
+  width: 300px !important;
+}
+.notification-menus .ant-dropdown-menu {
+  padding: 0px;
+}
+.notification-menus .ant-dropdown-menu-item {
+  padding: 0px;
+}
+.notification-header {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #09b7ef;
+  color: white;
+  font-size: 15px;
+  cursor: default;
+}
+
+.notification-header span {
+  background-color: #384971a3;
+  color: white;
+  padding: 3px 10px;
+  border-radius: 14px;
+  font-size: 13px;
+}
+.notification-footer {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #efefef;
+  cursor: default;
+  color: #09b7ef;
+  font-size: 15px;
+}
+.notification-footer .label {
+  cursor: pointer;
+}
+.notification-content {
+  padding: 10px 15px;
+  background-color: white;
+  cursor: default;
+}
+
+.notification-content .message-container {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  color: black;
+  cursor: pointer;
+}
+.notification-content svg {
+  width: 20px;
+  margin-right: 10px;
+}
+.notification-content .message-date {
+  color: #a2a2a2;
+  font-size: 12px;
+  padding-left: 31px;
+  margin-top: -6px;
+}
+.ant-notification {
+  z-index: 1201;
+}
+.sendbird-theme--light .sendbird-accordion__panel-header {
+  background-color: var(--sendbird-light-background-50);
+  border-bottom: 1px solid var(--sendbird-light-onlight-04);
+}
+.sendbird-accordion__panel-header {
+  cursor: pointer;
+  position: relative;
+  padding: 12px 22px 10px 56px;
+}
+.sendbird-theme--light .sendbird-modal-content {
+  background-color: var(--sendbird-light-background-50);
+  box-shadow: var(--sendbird-light-shadow-04);
+}
+.sendbird-modal-content {
+  width: 480px;
+  border-radius: 4px;
+  z-index: 10001;
+  padding: 18px 24px 24px 24px;
+  position: relative;
+  box-sizing: border-box;
+}
+.sendbird-theme--light .sendbird-modal-backdrop {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.sendbird-theme--light .sendbird-modal-backdrop {
+  background-color: var(--sendbird-light-overlay-02);
+}
+.sendbird-modal-backdrop {
+  position: fixed;
+  z-index: 10000;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.sendbird-modal-content .sendbird-modal-header {
+  margin-bottom: 16px;
+}
+.sendbird-modal-content .sendbird-modal-footer {
+  margin-top: 32px;
+  text-align: right;
+}
+.sendbird-modal-content .sendbird-modal-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  cursor: pointer;
+}
+.create-live-stream-modal {
+  max-width: 900px;
+}
+.live-stream-sub-menu-dropdown {
+  z-index: 0;
+}
+.live-stream-sub-menu-item svg {
+  width: 16px;
+  height: 16px;
+  color: #1890ff;
+}
+.cashflow-detail-modal .ant-modal-body {
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+.cashflow-detail-modal .ant-modal-close {
+  top: -35px;
+}
+.cashflow-detail-modal .ant-modal-close-x {
+  width: 30px;
+  height: 30px;
+  background-color: #d9d9d9;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cashflow-detail-modal .detail-img img {
+  width: 100%;
+}

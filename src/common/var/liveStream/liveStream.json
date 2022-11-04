@@ -1,0 +1,33 @@
+{
+  "liveStream.type": [
+    {
+      "value": 1,
+      "key": "live-streams",
+      "label": "Live Streams"
+    },
+    {
+      "value": 2,
+      "key": "recorded",
+      "label": "Recorded Live Streams"
+    }
+  ],
+  "liveStream.status": [
+    {
+      "value": 1,
+      "key": "publish",
+      "label": "Publish"
+    },
+    {
+      "value": 2,
+      "key": "draft",
+      "label": "Draft"
+    }
+  ],
+  "liveStream.videoSource": [
+    {
+      "value": "screen",
+      "key": "screen",
+      "label": "Screen"
+    }
+  ]
+}

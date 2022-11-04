@@ -1,0 +1,46 @@
+{
+  "subscription.status": [
+    {
+      "value": 1,
+      "key": "active",
+      "label": "Active"
+    },
+    {
+      "value": 2,
+      "key": "failed",
+      "label": "Failed"
+    },
+    {
+      "value": 3,
+      "key": "inactive",
+      "label": "Inactive"
+    },
+    {
+      "value": 4,
+      "key": "cancelled",
+      "label": "Cancelled"
+    }
+  ],
+  "subscription.payCycle": [
+    {
+      "value": 30,
+      "key": "30days",
+      "label": "Every 30 days"
+    },
+    {
+      "value": 60,
+      "key": "60days",
+      "label": "Every 60 days"
+    },
+    {
+      "value": 90,
+      "key": "90days",
+      "label": "Every 90 days"
+    },
+    {
+      "value": 1,
+      "key": "annual",
+      "label": "Every one year"
+    }
+  ]
+}

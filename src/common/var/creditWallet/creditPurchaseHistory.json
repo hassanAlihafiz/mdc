@@ -1,0 +1,19 @@
+{
+  "creditPurchaseHistory.type": [
+    {
+      "value": 1,
+      "key": "create_member",
+      "label": "Create Member"
+    },
+    {
+      "value": 2,
+      "key": "purchase",
+      "label": "Purchase"
+    },
+    {
+      "value": 3,
+      "key": "refund",
+      "label": "Refund"
+    }
+  ]
+}

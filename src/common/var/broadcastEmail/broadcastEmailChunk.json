@@ -1,0 +1,19 @@
+{
+	"broadcastEmailChunk.status": [
+		{
+			"value": 1,
+			"key": "pending",
+			"label": "Pending"
+		},
+		{
+			"value": 2,
+			"key": "sent",
+			"label": "Sent"
+		},
+		{
+			"value": 3,
+			"key": "failed",
+			"label": "Failed"
+		}
+	]
+}

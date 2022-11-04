@@ -1,0 +1,24 @@
+{
+  "userVerification.status": [
+    {
+      "value": 1,
+      "key": "requested",
+      "label": "Requested"
+    },
+    {
+      "value": 2,
+      "key": "uploaded",
+      "label": "Uploaded"
+    },
+    {
+      "value": 3,
+      "key": "verified",
+      "label": "Verified"
+    },
+    {
+      "value": 4,
+      "key": "failed",
+      "label": "Failed"
+    }
+  ]
+}

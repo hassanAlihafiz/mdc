@@ -1,0 +1,158 @@
+{
+  "liveStream.publishers": [
+    {
+      "value": "self",
+      "key": "self",
+      "label": "My Streams"
+    },
+    {
+      "value": "other",
+      "key": "other",
+      "label": "Others"
+    }
+  ],
+  "liveStream.topics": [
+    {
+      "value": "product-training",
+      "key": "product-training",
+      "label": "Product Training"
+    },
+    {
+      "value": "team-training",
+      "key": "team-training",
+      "label": "Team Training"
+    },
+    {
+      "value": "opportunity-presentation",
+      "key": "opportunity-presentation",
+      "label": "Opportunity Presentation"
+    },
+    {
+      "value": "product-demo",
+      "key": "product-demo",
+      "label": "Product Demo"
+    }
+  ],
+  "liveStream.languages": [
+    {
+      "value": "en",
+      "key": "en",
+      "label": "English"
+    },
+    {
+      "value": "fr",
+      "key": "fr",
+      "label": "Français"
+    },
+    {
+      "value": "de",
+      "key": "de",
+      "label": "German"
+    },
+    {
+      "value": "ch",
+      "key": "ch",
+      "label": "中文"
+    },
+    {
+      "value": "it",
+      "key": "it",
+      "label": "Italiano"
+    },
+    {
+      "value": "es",
+      "key": "es",
+      "label": "Español"
+    },
+    {
+      "value": "ko",
+      "key": "ko",
+      "label": "한국어"
+    },
+    {
+      "value": "sq",
+      "key": "sq",
+      "label": "Shqiptar"
+    },
+    {
+      "value": "ar",
+      "key": "ar",
+      "label": "العربية"
+    },
+    {
+      "value": "bn",
+      "key": "bn",
+      "label": "বাংলা"
+    },
+    {
+      "value": "nl",
+      "key": "nl",
+      "label": "Nederlandse"
+    },
+    {
+      "value": "gr",
+      "key": "gr",
+      "label": "ελληνική"
+    },
+    {
+      "value": "gu",
+      "key": "gu",
+      "label": "Avañe'ẽ"
+    },
+    {
+      "value": "hi",
+      "key": "hi",
+      "label": "हिंदुस्तानी"
+    },
+    {
+      "value": "ms",
+      "key": "ms",
+      "label": "Melayu"
+    },
+    {
+      "value": "fa",
+      "key": "fa",
+      "label": "پارسی"
+    },
+    {
+      "value": "pt",
+      "key": "pt",
+      "label": "Português"
+    },
+    {
+      "value": "ro",
+      "key": "ro",
+      "label": "Română"
+    },
+    {
+      "value": "ru",
+      "key": "ru",
+      "label": "русский"
+    },
+    {
+      "value": "sr",
+      "key": "sr",
+      "label": "Српско-хрватски"
+    },
+    {
+      "value": "sw",
+      "key": "sw",
+      "label": "Kiswahili"
+    },
+    {
+      "value": "sv",
+      "key": "sv",
+      "label": "Swedish"
+    },
+    {
+      "value": "ta",
+      "key": "ta",
+      "label": "தமிழ்"
+    },
+    {
+      "value": "tr",
+      "key": "tr",
+      "label": "Türk"
+    }
+  ]
+}

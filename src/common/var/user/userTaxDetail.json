@@ -1,0 +1,36 @@
+{
+  "userTaxDetail.type": [
+    {
+      "value": 1,
+      "key": "individual",
+      "label": "Individual"
+    },
+    {
+      "value": 2,
+      "key": "business",
+      "label": "Business"
+    }
+  ],
+  "userTaxDetail.status": [
+    {
+      "value": 1,
+      "key": "requested",
+      "label": "Requested"
+    },
+    {
+      "value": 2,
+      "key": "uploaded",
+      "label": "Uploaded"
+    },
+    {
+      "value": 3,
+      "key": "processed",
+      "label": "Processed"
+    },
+    {
+      "value": 4,
+      "key": "unprocessed",
+      "label": "Unprocessed"
+    }
+  ]
+}

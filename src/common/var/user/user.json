@@ -1,0 +1,200 @@
+{
+  "user.type": [
+    {
+      "value": 1,
+      "key": "affiliate",
+      "label": "Affiliate",
+      "label2": "Affiliate",
+      "color": "#7CA7FF"
+    },
+    {
+      "value": 2,
+      "key": "preferred",
+      "label": "Customer",
+      "label2": "Customer",
+      "color": "#5AC8FA"
+    }
+  ],
+  "user.status": [
+    {
+      "value": 1,
+      "key": "active",
+      "label": "Active"
+    },
+    {
+      "value": 2,
+      "key": "pending",
+      "label": "Pending"
+    },
+    {
+      "value": 3,
+      "key": "hold",
+      "label": "Hold"
+    },
+    {
+      "value": 4,
+      "key": "suspended",
+      "label": "Suspended"
+    }
+  ],
+  "user.legPosition": [
+    {
+      "value": 1,
+      "key": "left",
+      "label": "Left"
+    },
+    {
+      "value": 2,
+      "key": "right",
+      "label": "Right"
+    }
+  ],
+  "user.powerLeg": [
+    {
+      "value": 1,
+      "key": "left",
+      "label": "Left"
+    },
+    {
+      "value": 2,
+      "key": "right",
+      "label": "Right"
+    },
+    {
+      "value": 3,
+      "key": "lesser",
+      "label": "Lesser"
+    },
+    {
+      "value": 4,
+      "key": "holding_tank",
+      "label": "Holding Tank"
+    }
+  ],
+  "user.isPayoutAllowed": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "user.verificationStatus": [
+    {
+      "value": 1,
+      "key": "none",
+      "label": "None"
+    },
+    {
+      "value": 2,
+      "key": "requested",
+      "label": "Requested"
+    },
+    {
+      "value": 3,
+      "key": "uploaded",
+      "label": "Uploaded"
+    },
+    {
+      "value": 4,
+      "key": "verified",
+      "label": "Verified"
+    },
+    {
+      "value": 5,
+      "key": "failed",
+      "label": "Failed"
+    }
+  ],
+  "user.taxStatus": [
+    {
+      "value": 1,
+      "key": "none",
+      "label": "None"
+    },
+    {
+      "value": 2,
+      "key": "requested",
+      "label": "Requested"
+    },
+    {
+      "value": 3,
+      "key": "uploaded",
+      "label": "Uploaded"
+    },
+    {
+      "value": 4,
+      "key": "processed",
+      "label": "Processed"
+    },
+    {
+      "value": 5,
+      "key": "unprocessed",
+      "label": "Unprocessed"
+    }
+  ],
+  "user.showLeaderboard": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "user.showContactInfo": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "user.isFounder": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "user.isChatBlocked": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ],
+  "user.isOld": [
+    {
+      "value": 1,
+      "key": "yes",
+      "label": "Yes"
+    },
+    {
+      "value": 2,
+      "key": "no",
+      "label": "No"
+    }
+  ]  
+}

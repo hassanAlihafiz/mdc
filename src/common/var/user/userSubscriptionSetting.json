@@ -1,0 +1,19 @@
+{
+	"userSubscriptionSetting.payType": [
+		{
+		  "value": 1,
+		  "key": "cc",
+		  "label": "Credit Card"
+		},
+		{
+		  "value": 2,
+		  "key": "wallet",
+		  "label": "Credit Wallet"
+		},
+		{
+			"value": 3,
+			"key": "bank",
+			"label": "Bank ACH"
+		}
+	]
+}

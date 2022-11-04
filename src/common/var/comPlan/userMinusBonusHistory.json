@@ -1,0 +1,19 @@
+{
+	"userMinusBonusHistory.type": [
+		{
+			"value": 1,
+			"key": "refund",
+			"label": "Refund"
+		},
+		{
+			"value": 2,
+			"key": "chargeback",
+			"label": "Chargeback"
+		},
+		{
+			"value": 3,
+			"key": "calculated",
+			"label": "Calculated"			
+		}
+	]
+}
